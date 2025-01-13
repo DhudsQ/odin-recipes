@@ -1,0 +1,32 @@
+body {
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(255, 200, 127);
+ }
+
+ .title{ 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(255, 156, 156);
+ }
+
+ .sub-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 40;
+    text-decoration: underline;
+ }
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+ li { 
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
